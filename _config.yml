@@ -138,7 +138,7 @@ inc_after_meta :
 inc_before_scripts :
 inc_after_scripts :
 inc_before_styles :
-inc_after_styles : "style.html" 
+inc_after_styles : "_includes/style.html" 
 inc_before_header :
 inc_after_header :
 inc_before_tail :
