@@ -68,10 +68,15 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 defaults:
  -
     scope:
+      path: "wiki"
+    values:
+      permalink: /:basename
+ -
+    scope:
       path: ""
     values:
       layout: "git-wiki-bs-lux"
@@ -81,12 +86,6 @@ defaults:
       type: "pages"
     values:
       layout: "git-wiki-bs-lux"
- -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "git-wiki-default"
  -
     scope:
       path: ""
