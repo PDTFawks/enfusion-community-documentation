@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /tags/*
-
-Sitemap: https://pdtfawks.github.io/enfusion-community-documentation/sitemap.xml
