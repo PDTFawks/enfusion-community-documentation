@@ -1,6 +1,9 @@
 # Enfusion Community Documentation
 ##### Community created and maintained documentation for Bohemia Interactive's Enfusion engine.
 
+## New to Enfusion?
+The best place to start is to familiarize yourself with the Workbench and look at the tutorials in the navigation bar to the right.
+
 ---
 # Contributing
 
