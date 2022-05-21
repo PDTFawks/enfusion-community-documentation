@@ -22,7 +22,7 @@ modded class SCR_GameCoreBase
   }
 }
 ```
-{{< hint type=[note|tip|important|caution|warning] (icon=gdoc_github) (title=GitHub) >}}
+{{< hint type=[caution]>}}
 **Markdown content**\
 Dolor sit, sumo unique argument um no. Gracie nominal id xiv. Romanesque acclimates investiture.
  Ornateness bland it ex enc, est yeti am bongo detract re.
