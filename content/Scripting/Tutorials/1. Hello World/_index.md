@@ -1,4 +1,3 @@
-# 1. Hello World
 A good first script to get you started.
 
 Alright, before we get into how to say “Hello World” and such we need to go over some quirks:

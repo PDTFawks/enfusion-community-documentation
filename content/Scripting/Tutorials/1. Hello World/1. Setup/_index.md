@@ -1,4 +1,3 @@
-## Setup
 Goal: Print “Hello World” to the “Output box” when a scenario is started.
 
 To do this we are going to override the “OnGameStart” method from the “SCR_GameCoreBase” class.
