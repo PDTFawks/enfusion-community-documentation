@@ -14,7 +14,18 @@ In the Workbench “Resource Browser”:
 7.1 This keeps everything nice and tidy and ensures there’s no confusion between the original and ours.
 
 When you’re done it should look like this:
-![ScriptEditor](https://i.imgur.com/zp9Ir7G.png)
+```
+>ArmaReforger
+>core
+>EnscriptTutorial
+  >scripts
+    >Game
+      >GameCore
+        >Modded
+>profile
+```
 
-Now create a script file (“+Create” > “Script”) and name it “SCR_GameCoreBase”.
-The reason we name it the same is: so that we know exactly what we are changing. And so  6 months down the road, we aren’t looking through 20 different files trying to figure out where we changed it, we can find it.
+Now create a script file ```(“+Create” > “Script”) and name it “SCR_GameCoreBase”```.
+{{< hint type=tip >}}
+The reason we name it `“SCR_GameCoreBase”` apart from maintaining consistency with vanilla is so we can more easily figure out what changes a particular project has made to certain classes.
+{{< /hint >}}
