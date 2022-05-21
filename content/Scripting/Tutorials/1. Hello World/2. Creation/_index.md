@@ -22,6 +22,8 @@ modded class SCR_GameCoreBase
   }
 }
 ```
-{{< hint type=[caution] >}}
-The keyword `super` is very important here. Without it you will likely break things.
+{{< hint type=[note|tip|important|caution|warning] (icon=gdoc_github) (title=GitHub) >}}
+**Markdown content**\
+Dolor sit, sumo unique argument um no. Gracie nominal id xiv. Romanesque acclimates investiture.
+ Ornateness bland it ex enc, est yeti am bongo detract re.
 {{< /hint >}}
