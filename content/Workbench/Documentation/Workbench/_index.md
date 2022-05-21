@@ -1,6 +1,4 @@
-# The Workbench
 
-### Introduction
 The workbench is the hub for all Enfusion tools. It is where your file tree is located and where you access the various tools from.
 
 ![Workbench](https://i.imgur.com/5Hj0Nen.jpg)

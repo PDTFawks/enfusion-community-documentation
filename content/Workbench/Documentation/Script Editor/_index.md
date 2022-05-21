@@ -1,6 +1,4 @@
 # The Script Editor
-
-### Introduction
 The Script Editor is where you edit scripts.
 
 ![ScriptEditor](https://i.imgur.com/ubMZHuj.jpg)
