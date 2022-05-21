@@ -22,6 +22,6 @@ modded class SCR_GameCoreBase
   }
 }
 ```
-{{< hint type=[caution] (title=Caution) >}}
+{{< hint type=[caution] >}}
 The keyword `super` is very important here. Without it you will likely break things.
 {{< /hint >}}
