@@ -22,6 +22,6 @@ modded class SCR_GameCoreBase
   }
 }
 ```
-{{< hint type=[caution] (title=Cation) >}}
-The keyword `super` is very important here. Without it you will likely break things. It is highly recommended to read the documentation linked in the [introduction page](https://pdtfawks.github.io/enfusion-community-documentation/Scripting/Tutorials/1.-Hello-World/).
+{{< hint type=[caution] (title=Caution) >}}
+The keyword `super` is very important here. Without it you will likely break things.
 {{< /hint >}}
