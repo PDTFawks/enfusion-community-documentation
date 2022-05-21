@@ -5,7 +5,7 @@
 # Contributing
 
 ### Steps to contribute:
-1. Clone `main`,
+1. Clone [`main`](https://github.com/PDTFawks/enfusion-community-documentation),
 2. Edit/add the category/document inside `content`
 3. Create a pull request to `main`.
 4. Your request will be evaluated and accepted.
