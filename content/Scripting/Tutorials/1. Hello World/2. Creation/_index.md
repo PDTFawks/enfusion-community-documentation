@@ -22,8 +22,6 @@ modded class SCR_GameCoreBase
   }
 }
 ```
-{{< hint type=[caution] >}}
-**Markdown content**\
-Dolor sit, sumo unique argument um no. Gracie nominal id xiv. Romanesque acclimates investiture.
- Ornateness bland it ex enc, est yeti am bongo detract re.
+{{< hint type=caution >}}
+The `super` keyword is extremely important when overriding classes.
 {{< /hint >}}

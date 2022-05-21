@@ -1,5 +1,5 @@
 To test it we need to save the script: ```(“File” > “Save All” || CTRL + S) and compile it (“Build” > “Compile and Reload Scripts” || SHIIFT + F7)```.
-{{< hint type=[tip] >}}
+{{< hint type=tip >}}
 Compile note: If you compile while in the “World Editor” it will restart the “World Editor”..
 {{< /hint >}}
 
